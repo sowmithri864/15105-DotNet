@@ -1,0 +1,16 @@
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.exe
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.deps.json
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.runtimeconfig.json
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.runtimeconfig.dev.json
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.dll
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\ref\Type_Collection_demo.dll
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.pdb
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.csproj.AssemblyReference.cache
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.AssemblyInfoInputs.cache
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.AssemblyInfo.cs
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.csproj.CoreCompileInputs.cache
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.dll
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\ref\Type_Collection_demo.dll
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.pdb
+C:\Users\chirala15105\source\repos\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.genruntimeconfig.cache
